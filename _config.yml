@@ -13,7 +13,7 @@ title : Feiping Huang
 tagline: Site Tagline
 author :
   name : Feiping Huang
-  email : blah@email.test
+  email : feipinghuang@gmail.com
   github : feipinghunag
   twitter : feipinghuang
 
@@ -25,7 +25,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.com
+production_url : http://feipinghunag.github.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
