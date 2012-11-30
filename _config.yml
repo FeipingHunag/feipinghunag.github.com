@@ -90,6 +90,10 @@ JB :
   #     num_posts: 5
   #     width: 580
   #     colorscheme: light
+  comments :
+    provider : duoshuo
+    duoshuo :
+      short_name : feipinghuang
 
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
@@ -99,10 +103,10 @@ JB :
     provider : google
     google :
         tracking_id : 'UA-36719710-1'
-    getclicky :
-      site_id :
-    mixpanel :
-        token : '_MIXPANEL_TOKEN_'
+    # getclicky :
+    #   site_id :
+    # mixpanel :
+    #     token : '_MIXPANEL_TOKEN_'
 
   # Settings for sharing helper.
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
@@ -110,7 +114,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : false
+    provider : true
 
   # Settings for all other include helpers can be defined by creating
   # a hash with key named for the given helper. ex:
