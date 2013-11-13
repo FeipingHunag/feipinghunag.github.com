@@ -29,4 +29,4 @@ Answer:
 
 Live Demo:
 
-<a class="jsbin-embed" href="http://jsbin.com/isuhum/2/embed?live">How can I hold Twitter Bootstrap Popover open until my mouse moves into it?</a><script src="http://static.jsbin.com/js/embed.js"></script>
+<a class="jsbin-embed" href="http://jsbin.com/isuhum/2/embed?live">How can I hold Twitter Bootstrap Popover open until my mouse moves into it?</a>
